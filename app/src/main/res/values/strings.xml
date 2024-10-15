@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application App</string>
+    <string name="score">Score:0</string>
+    <string name="strikes">Strikes:0</string>
+    <string name="start">START</string>
+    <string name="tap_start_to_begin">Tap Start To Begin!</string>
+</resources>
